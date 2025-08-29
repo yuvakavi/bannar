@@ -1,13 +1,3 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
-
-nc: 2
-names: ['banner', 'flag']
-
-roboflow:
-  workspace: cattle-h5tjf
-  project: banners-tpmon
-  version: 1
-  license: CC BY 4.0
-  url: https://universe.roboflow.com/cattle-h5tjf/banners-tpmon/dataset/1
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b2c64f9ce7d85cb407297eeb2821e8ba89a9578eaeab07295e65d9553046e8a
+size 267
